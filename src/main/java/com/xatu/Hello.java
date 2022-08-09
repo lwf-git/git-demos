@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("hello,hot-fix");
         System.out.println("hello,master----");
         System.out.println("远程库");
+        System.out.println("pull");
     }
 }
